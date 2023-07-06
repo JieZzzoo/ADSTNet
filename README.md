@@ -3,6 +3,4 @@ This repository is about the work of ADSTNet. Codes and models will be publicly 
 
 
 # Saliency maps
-
-
-# Evaluation Tool
+Saliency maps are on the way.
