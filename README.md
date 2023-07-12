@@ -1,10 +1,6 @@
 # ADSTNet
-This repository is about the work of ADSTNet. Codes and models will be publicly available immediately if the paper is accepted.
+This repository is about the work of Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images. 
 
-# code
-The code on the way.
 
 # Saliency maps
-The results of our method in our paper can be download from BaiduYun:
-
-[BaiduYunlink](https://pan.baidu.com/s/1qYklPLWkK_pbWhQHRjFNKg) code：ADST
+We provide saliency maps of our ADSTNet (https://pan.baidu.com/s/1qYklPLWkK_pbWhQHRjFNKg) (code:ADST ) on ORSSD, EORSSD and ORSI-4199 datasets.
