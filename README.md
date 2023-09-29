@@ -1,5 +1,5 @@
 # ADSTNet
-This repository is about the work of Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images. 
+This repository is about the work of Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images. The code is on the way......
 
 # Datasets
 The datasets utilized in this work can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1iP7KRFwkS6K4Hako1XQIgg)(code:2r9f), including ORSSD, EORSSD and ORSI-4199.
