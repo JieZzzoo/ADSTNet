@@ -9,3 +9,8 @@ We provide saliency maps of our ADSTNet in [BaiDuYunlink](https://pan.baidu.com/
 
 # Evaluation Tool
 You can use the evaluation tool [(MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
+
+##
+If you encounter any problems with the code, want to report bugs, etc.
+
+Please contact me at jiezhao_99@163.com.
