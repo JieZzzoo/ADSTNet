@@ -18,6 +18,20 @@ We provide saliency maps of ADSTNet base on the others backbone (VGG and ResNet)
 
 We provide saliency maps of some semantic segmentation methods in [BaiDuYunlink](https://pan.baidu.com/s/146YIKVNhz4KSaG54YTVUMA) (code:ADST).
 
+## Citation
+If you find this work interesting and use our dataset in your research, please cite:
+```
+@article{zhao2024adaptive,
+  title={Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images},
+  author={Zhao, Jie and Jia, Yun and Ma, Lin and Yu, Lidan},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={17},
+  pages={5173--5192},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
 #
 If you encounter any problems with the code, want to report bugs, etc.
 
