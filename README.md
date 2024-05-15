@@ -1,8 +1,6 @@
 # ADSTNet
 This repository is about the work of Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images. 
 
-🏃 The code is on the way...... 🏃
-
 ## Network Architecture
 ![ADSTNet.png](images%2FADSTNet.png)
 
