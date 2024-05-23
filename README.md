@@ -1,5 +1,5 @@
 # ADSTNet
-This project provides the code and results for 'Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images' ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10439066)), IEEE J-STARS, 2024.
+This project provides the code and results for 'Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images', IEEE J-STARS, 2024 ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10439066)).
 
 ## Network Architecture
 ![ADSTNet.png](images%2FADSTNet.png)
